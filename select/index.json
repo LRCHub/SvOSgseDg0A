@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ゾンビ",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-03-09T01:14:26.650715Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゾンビ",
+      "artist": "Bad Wolves",
+      "has_synced": true,
+      "path": "select/01_ゾンビ_Bad_Wolves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゾンビ (Giga Waha Remix)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_ゾンビ_(Giga_Waha_Remix)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゾンビ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_ゾンビ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シン・ゾンビ",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/04_シン・ゾンビ_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ゾンビ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_ゾンビ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ゾンビ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/06_ゾンビ_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ゾンビ",
+      "artist": "deco27",
+      "has_synced": false,
+      "path": "select/07_ゾンビ_deco27.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ゾンビ",
+      "artist": "DECO∗27",
+      "has_synced": false,
+      "path": "select/08_ゾンビ_DECO∗27.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゾンビ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ゾンビ_DECO_27.txt"
+    }
+  ]
+}
